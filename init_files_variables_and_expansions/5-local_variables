@@ -1,4 +1,0 @@
-#!/bin/bash
-# -a : all variables (local + env), -f : functions
-declare -p
-declare -F

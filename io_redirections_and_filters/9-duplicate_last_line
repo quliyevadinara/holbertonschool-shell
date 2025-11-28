@@ -1,0 +1,3 @@
+#!/bin/bash
+# sonuncu sətri oxu və faylın sonuna əlavə et
+tail -n 1 iacta >> iacta
